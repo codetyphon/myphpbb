@@ -2,7 +2,7 @@
 session_start();
 define('mysql_server','localhost');
 define('mysql_root','pingzili_dashan');
-define('mysql_pass','00990000');//7OGySHv5
+define('mysql_pass','7OGySHv5');//7OGySHv5
 define('mysql_bass','pingzili_dashan');
 $con = mysql_connect(mysql_server,mysql_root,mysql_pass);
 if (!$con){
