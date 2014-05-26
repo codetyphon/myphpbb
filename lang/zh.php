@@ -1,0 +1,21 @@
+<?php
+$_label['username']='用户名';
+$_label['password']='密码';
+$_label['register']='注册';
+$_label['home']='首页';
+$_label['by']='作者';
+$_label['reply']='回复';
+$_label['login']='登录';
+$_label['edit']='编辑';
+$_label['delete']='删除';
+$_label['from']='来自';
+$_label['submit']='提交';
+$_label['about']='关于';
+$_label['admin']='管理员';
+$_label['logout']='退出';
+$_label['register_success']='申请成功 !';
+$_label['click_here_to_return_index']='猛击此处返回首页';
+$_label['post']='发布';
+$_label['viewed']='独立IP访问次数';
+$_label['top']='置顶';
+?>

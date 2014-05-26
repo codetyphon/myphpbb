@@ -1,0 +1,1 @@
+define("Sql_get_groups","select * from `groups` order by id limit 0,20");

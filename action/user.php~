@@ -1,0 +1,9 @@
+<?php
+function user_get_user_by_userId($id){
+}
+function user_get_user_by_topicId($id){
+}
+function user_get_userPass_by_userId($id){
+}
+
+?>
